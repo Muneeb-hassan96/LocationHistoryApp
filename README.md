@@ -4,9 +4,14 @@ LocationHistory app keeps the track of your tagged locations with their coordina
 
 ## Screenshot
 
-![alt text](LINK_HERE?raw=true)
+Getting Location
 
-![alt text](LINK_HERE?raw=true)
+![alt text](https://github.com/Muneeb-hassan96/LocationHistoryApp/blob/main/Searching.png?raw=true)
+
+
+Tagging
+
+![alt text](https://github.com/Muneeb-hassan96/LocationHistoryApp/blob/main/TaggedLocations.png?raw=true)
 
 ## Tools
 - MapKit
